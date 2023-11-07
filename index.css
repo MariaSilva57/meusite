@@ -1,4 +1,11 @@
 p {
     text-align:center;
-    
+}
+
+body{
+    background: #c0c0c0
+}
+
+h1 strong{
+    color: rgb(112, 12, 206)
 }
