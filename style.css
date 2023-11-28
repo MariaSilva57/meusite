@@ -12,6 +12,12 @@ ul{
     padding: 16px;
 }
 
+img{
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 50%;
+}
 p {
     text-align: center;
  }
